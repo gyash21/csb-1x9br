@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://gyash21.github.io/csb-1x9br/static/css/main.106b5c29.chunk.css",
+    "main.js": "https://gyash21.github.io/csb-1x9br/static/js/main.8bed2da9.chunk.js",
+    "main.js.map": "https://gyash21.github.io/csb-1x9br/static/js/main.8bed2da9.chunk.js.map",
+    "runtime-main.js": "https://gyash21.github.io/csb-1x9br/static/js/runtime-main.0edcd4ff.js",
+    "runtime-main.js.map": "https://gyash21.github.io/csb-1x9br/static/js/runtime-main.0edcd4ff.js.map",
+    "static/js/2.ccbaf597.chunk.js": "https://gyash21.github.io/csb-1x9br/static/js/2.ccbaf597.chunk.js",
+    "static/js/2.ccbaf597.chunk.js.map": "https://gyash21.github.io/csb-1x9br/static/js/2.ccbaf597.chunk.js.map",
+    "index.html": "https://gyash21.github.io/csb-1x9br/index.html",
+    "static/css/main.106b5c29.chunk.css.map": "https://gyash21.github.io/csb-1x9br/static/css/main.106b5c29.chunk.css.map",
+    "static/js/2.ccbaf597.chunk.js.LICENSE.txt": "https://gyash21.github.io/csb-1x9br/static/js/2.ccbaf597.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0edcd4ff.js",
+    "static/js/2.ccbaf597.chunk.js",
+    "static/css/main.106b5c29.chunk.css",
+    "static/js/main.8bed2da9.chunk.js"
+  ]
+}
